@@ -1,0 +1,3 @@
+const char* root_ca = "PASTE_YOUR_ROOT_CA_HERE";
+const char* device_cert = "PASTE_YOUR_DEVICE_CERT_HERE";
+const char* private_key = "PASTE_YOUR_PRIVATE_KEY_HERE";

@@ -1,0 +1,5 @@
+certs.h
+build/
+*.bin
+.vscode/
+.idea/ 
